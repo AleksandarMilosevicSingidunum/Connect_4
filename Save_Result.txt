@@ -1,0 +1,10 @@
+1=id
+1
+aca
+veljko
+       
+    O  
+O   O  
+X X X  
+O OOO  
+X XXX  
